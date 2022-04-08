@@ -9,7 +9,6 @@
     },
 
     "env" : {
-        "Github" : "https://github.com/appwrite/appwrite/pulls",
         "test" : "https://test.mytheresa.com/en-de/men.html",
         "mainurl" : "https://www.mytheresa.com/en-de/men.html",
         "staging" : "https://staging.mytheresa.com/en-de/men.html",
