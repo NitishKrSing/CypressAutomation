@@ -1,8 +1,8 @@
 
 # Mytheresa Cypress Automation
 
-I have automated Register and Login function, where we have Mochaawesome report 
-to show the result with the required data.
+I have automated Register, Login function and verifying the compatibility with movile and ipad.
+I have integrated Mocha for creating execution report.
 This Framework is easy to modify and change, the scripts are ready to use.
 
 
